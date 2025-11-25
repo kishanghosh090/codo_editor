@@ -6,4 +6,3 @@ export const authRoutes: string[] = ["/auth/sign-in",];
 
 export const apiAuthPrefix: string = "/api/auth";
 
-import authConfig from "./auth.config";
